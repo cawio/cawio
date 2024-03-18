@@ -1,4 +1,5 @@
-<p align="center">Hi there! 👋<br><br>I'm Simon, a software developer from Germany passionate about building web applications with Angular and .NET technologies.<br><br>🔭 I’m currently working on: <br>- Angular projects to create dynamic and responsive user interfaces.<br>- .NET applications for robust back-end solutions.<br><br>🌱 I’m currently learning:<br>- Advanced Angular techniques for optimized performance and scalability.<br>- .NET Core for building cross-platform applications.</p>
+<p align="center">Hi there! 👋<br><br>I'm Simon, a software developer from Germany passionate about building web applications with Angular and .NET technologies.<br><br>🔭 I’m currently working on: <br>- Angular projects to create dynamic and responsive user interfaces.<br>- .NET applications for robust back-end solutions.<br><br>🌱 I’m currently learning:<br>- Advanced Angular techniques for optimized performance and scalability.<br>- .NET Core for building cross-platform applications.<br><br>💡 I'm also a proud follower of the Grug Dev movement, advocating for simplicity and effectiveness in software development. Check out the movement at [grugbrain.dev](https://grugbrain.dev/)!</p>
+
 
 ###
 
